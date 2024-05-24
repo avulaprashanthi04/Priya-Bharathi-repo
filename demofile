@@ -1,4 +1,4 @@
-FROM "ubuntu"
-Maintainer "dev-1"
+FROM ""
+Maintainer ""
 RUN "apt-get update"
-RUN "nginx"
+RUN ""
