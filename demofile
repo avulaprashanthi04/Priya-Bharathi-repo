@@ -1,0 +1,4 @@
+FROM "ubuntu"
+Maintainer "dev-1"
+RUN "apt-get update"
+RUN "nginx"
